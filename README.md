@@ -1,4 +1,4 @@
 lamassu-id003
 =============
 
-A library that communicates with a bill validator vi the id003 protocol.
+A library that communicates with a bill validator via the id003 protocol.
